@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		1FBBCCEB250563AD006F1D0B /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		A86938C320D027C300E87976 /* HW 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A86938C320D027C300E87976 /* HW 6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW 6.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A86938C620D027C300E87976 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A86938C820D027C300E87976 /* PreferencesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferencesViewController.swift; sourceTree = "<group>"; };
 		A86938CB20D027C300E87976 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		A86938BA20D027C300E87976 = {
 			isa = PBXGroup;
 			children = (
-				A86938C520D027C300E87976 /* HW 2 */,
+				A86938C520D027C300E87976 /* HW 6 */,
 				A86938C420D027C300E87976 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		A86938C420D027C300E87976 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A86938C320D027C300E87976 /* HW 2.app */,
+				A86938C320D027C300E87976 /* HW 6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A86938C520D027C300E87976 /* HW 2 */ = {
+		A86938C520D027C300E87976 /* HW 6 */ = {
 			isa = PBXGroup;
 			children = (
 				A86938C620D027C300E87976 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				A86938D220D027C400E87976 /* Info.plist */,
 				1FBBCCEB250563AD006F1D0B /* MainViewController.swift */,
 			);
-			path = "HW 2";
+			path = "HW 6";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,7 +84,7 @@
 			);
 			name = "HW 2";
 			productName = "HW 2";
-			productReference = A86938C320D027C300E87976 /* HW 2.app */;
+			productReference = A86938C320D027C300E87976 /* HW 6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A86938BE20D027C300E87976 /* Build configuration list for PBXProject "HW 2" */;
+			buildConfigurationList = A86938BE20D027C300E87976 /* Build configuration list for PBXProject "HW 6" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -286,13 +286,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "HW 2/Info.plist";
+				INFOPLIST_FILE = "HW 6/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.swiftbook.HW-2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "HW 6";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -303,13 +303,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "HW 2/Info.plist";
+				INFOPLIST_FILE = "HW 6/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.swiftbook.HW-2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "HW 6";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A86938BE20D027C300E87976 /* Build configuration list for PBXProject "HW 2" */ = {
+		A86938BE20D027C300E87976 /* Build configuration list for PBXProject "HW 6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A86938D320D027C400E87976 /* Debug */,
